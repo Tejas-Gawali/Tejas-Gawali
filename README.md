@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Social Media website**
 
-- 💬 Ask me about **React , Mearn , Programming**
+- 💬 Ask me about **React , Mern , Programming**
 
 - 📫 How to reach me **tejasgawali.12345@gmail.com**
 
